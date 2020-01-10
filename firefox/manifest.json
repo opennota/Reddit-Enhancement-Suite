@@ -7,7 +7,7 @@
 	"homepage_url": "{{prop-loader?homepage!../package.json}}",
 	"applications": {
 		"gecko": {
-			"id": "jid1-xUfzOsOFlzSOXg@jetpack",
+			"id": "{64e27d22-25d7-4cd6-b111-3d6716fd9323}",
 			"strict_min_version": "69.0"
 		}
 	},
