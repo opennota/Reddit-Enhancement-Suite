@@ -7,6 +7,8 @@
 [![devDependencies Status](https://david-dm.org/honestbleeps/Reddit-Enhancement-Suite/dev-status.svg)](https://david-dm.org/honestbleeps/Reddit-Enhancement-Suite?type=dev)
 [![Chat on IRC](https://img.shields.io/badge/irc-%23enhancement-blue.svg)](http://webchat.snoonet.org/#enhancement)
 
+**This is just a fork of https://github.com/honestbleeps/Reddit-Enhancement-Suite with one commit reverted.**
+
 Reddit Enhancement Suite (RES) is a suite of modules that enhances your Reddit browsing experience.
 
 For general documentation, visit the [Reddit Enhancement Suite Wiki](https://www.reddit.com/r/Enhancement/wiki/index).
