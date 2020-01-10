@@ -9,6 +9,10 @@
 
 **This is just a fork of https://github.com/honestbleeps/Reddit-Enhancement-Suite with one commit reverted.**
 
+**URL of the fork: https://github.com/opennota/Reddit-Enhancement-Suite**
+
+---
+
 Reddit Enhancement Suite (RES) is a suite of modules that enhances your Reddit browsing experience.
 
 For general documentation, visit the [Reddit Enhancement Suite Wiki](https://www.reddit.com/r/Enhancement/wiki/index).
